@@ -4,7 +4,7 @@
     <title>Sari-Sari Store Inventory</title>
     <style>
 body {
-    background-image: url('img/store.jpg');
+    background-image: url('img/cstore.jpg');
     background-size: cover;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin: 0;
